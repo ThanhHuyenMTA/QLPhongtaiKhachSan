@@ -1,0 +1,22 @@
+E:\bt.ng2 lt2\A_KHACH_SAN\BTLon_KSan\BTLon_KSan\bin\Release\BTLon_KSan.exe.config
+E:\bt.ng2 lt2\A_KHACH_SAN\BTLon_KSan\BTLon_KSan\obj\Release\BTLon_KSan.csprojResolveAssemblyReference.cache
+E:\bt.ng2 lt2\A_KHACH_SAN\BTLon_KSan\BTLon_KSan\obj\Release\BTLon_KSan.Form1.resources
+E:\bt.ng2 lt2\A_KHACH_SAN\BTLon_KSan\BTLon_KSan\obj\Release\BTLon_KSan.Properties.Resources.resources
+E:\bt.ng2 lt2\A_KHACH_SAN\BTLon_KSan\BTLon_KSan\obj\Release\BTLon_KSan.csproj.GenerateResource.Cache
+E:\bt.ng2 lt2\A_KHACH_SAN\BTLon_KSan\BTLon_KSan\bin\Release\BTLon_KSan.exe
+E:\bt.ng2 lt2\A_KHACH_SAN\BTLon_KSan\BTLon_KSan\bin\Release\BTLon_KSan.pdb
+E:\bt.ng2 lt2\A_KHACH_SAN\BTLon_KSan\BTLon_KSan\obj\Release\BTLon_KSan.exe
+E:\bt.ng2 lt2\A_KHACH_SAN\BTLon_KSan\BTLon_KSan\obj\Release\BTLon_KSan.pdb
+E:\bt.ng2 lt2\A_KHACH_SAN\BTLon_KSan\BTLon_KSan\obj\Release\BTLon_KSan.Chitietsddv.resources
+E:\bt.ng2 lt2\A_KHACH_SAN\BTLon_KSan\BTLon_KSan\obj\Release\BTLon_KSan.view.Dangnhap.resources
+E:\Hoc ki 1 nam 3\CSDL\Bai_nhom_6\Bai_Nhom 6\BTLon_KSan\BTLon_KSan\BTLon_KSan\bin\Release\BTLon_KSan.exe.config
+E:\Hoc ki 1 nam 3\CSDL\Bai_nhom_6\Bai_Nhom 6\BTLon_KSan\BTLon_KSan\BTLon_KSan\obj\Release\BTLon_KSan.exe
+E:\Hoc ki 1 nam 3\CSDL\Bai_nhom_6\Bai_Nhom 6\BTLon_KSan\BTLon_KSan\BTLon_KSan\obj\Release\BTLon_KSan.pdb
+E:\Hoc ki 1 nam 3\CSDL\Bai_nhom_6\Bai_Nhom 6\BTLon_KSan\BTLon_KSan\BTLon_KSan\bin\Release\BTLon_KSan.exe
+E:\Hoc ki 1 nam 3\CSDL\Bai_nhom_6\Bai_Nhom 6\BTLon_KSan\BTLon_KSan\BTLon_KSan\bin\Release\BTLon_KSan.pdb
+E:\Hoc ki 1 nam 3\CSDL\Bai_nhom_6\Bai_Nhom 6\BTLon_KSan\BTLon_KSan\BTLon_KSan\obj\Release\BTLon_KSan.csprojResolveAssemblyReference.cache
+E:\Hoc ki 1 nam 3\CSDL\Bai_nhom_6\Bai_Nhom 6\BTLon_KSan\BTLon_KSan\BTLon_KSan\obj\Release\BTLon_KSan.Chitietsddv.resources
+E:\Hoc ki 1 nam 3\CSDL\Bai_nhom_6\Bai_Nhom 6\BTLon_KSan\BTLon_KSan\BTLon_KSan\obj\Release\BTLon_KSan.view.Dangnhap.resources
+E:\Hoc ki 1 nam 3\CSDL\Bai_nhom_6\Bai_Nhom 6\BTLon_KSan\BTLon_KSan\BTLon_KSan\obj\Release\BTLon_KSan.Form1.resources
+E:\Hoc ki 1 nam 3\CSDL\Bai_nhom_6\Bai_Nhom 6\BTLon_KSan\BTLon_KSan\BTLon_KSan\obj\Release\BTLon_KSan.Properties.Resources.resources
+E:\Hoc ki 1 nam 3\CSDL\Bai_nhom_6\Bai_Nhom 6\BTLon_KSan\BTLon_KSan\BTLon_KSan\obj\Release\BTLon_KSan.csproj.GenerateResource.Cache

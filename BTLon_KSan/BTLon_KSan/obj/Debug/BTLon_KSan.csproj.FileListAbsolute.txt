@@ -1,0 +1,13 @@
+c:\users\thanh-huyen\documents\visual studio 2013\Projects\BTLon_KSan\BTLon_KSan\bin\Debug\BTLon_KSan.exe.config
+C:\Users\Thanh-Huyen\documents\visual studio 2013\Projects\BTLon_KSan\BTLon_KSan\bin\Debug\BTLon_KSan.exe
+C:\Users\Thanh-Huyen\documents\visual studio 2013\Projects\BTLon_KSan\BTLon_KSan\bin\Debug\BTLon_KSan.pdb
+C:\Users\Thanh-Huyen\documents\visual studio 2013\Projects\BTLon_KSan\BTLon_KSan\obj\Debug\BTLon_KSan.csprojResolveAssemblyReference.cache
+C:\Users\Thanh-Huyen\documents\visual studio 2013\Projects\BTLon_KSan\BTLon_KSan\obj\Debug\BTLon_KSan.Form1.resources
+C:\Users\Thanh-Huyen\documents\visual studio 2013\Projects\BTLon_KSan\BTLon_KSan\obj\Debug\BTLon_KSan.Properties.Resources.resources
+C:\Users\Thanh-Huyen\documents\visual studio 2013\Projects\BTLon_KSan\BTLon_KSan\obj\Debug\BTLon_KSan.csproj.GenerateResource.Cache
+C:\Users\Thanh-Huyen\documents\visual studio 2013\Projects\BTLon_KSan\BTLon_KSan\obj\Debug\BTLon_KSan.exe
+C:\Users\Thanh-Huyen\documents\visual studio 2013\Projects\BTLon_KSan\BTLon_KSan\obj\Debug\BTLon_KSan.pdb
+C:\Users\Thanh-Huyen\documents\visual studio 2013\Projects\BTLon_KSan\BTLon_KSan\obj\Debug\BTLon_KSan.KH.resources
+E:\bt.ng2 lt2\A_KHACH_SAN\BTLon_KSan\BTLon_KSan\bin\Debug\BTLon_KSan.exe.config
+E:\bt.ng2 lt2\A_KHACH_SAN\BTLon_KSan\BTLon_KSan\obj\Debug\BTLon_KSan.exe
+E:\bt.ng2 lt2\A_KHACH_SAN\BTLon_KSan\BTLon_KSan\obj\Debug\BTLon_KSan.pdb
